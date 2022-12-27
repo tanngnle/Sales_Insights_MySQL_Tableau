@@ -16,6 +16,8 @@ Questions I answered to build dashboar
 
 Here are the queries that I wrote to validate my Dashboard: https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Sales_insights_MySQL_queries.sql
 
+Here are my data star schema: <img src= "https://github.com/tanngnle/Sales_Insights_Project_with_Tableau_and_MySQL/blob/main/Data%20Star%20Schema.png">
+
 **Final output:**
 
 <img src= "https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Visualisation.png">
