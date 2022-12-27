@@ -13,6 +13,7 @@ Questions I answered to build dashboar
 **Tool to be used:** 1. MySQL Workbench   2. Tableau
 
 **Skills needed to complete the job:** 1. Data Extraction(ETL)   2. Data cleaning   3. SQL query language   4. Data visualization
+Here are the queries that I wrote to validate my Dashboard: https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Sales_insights_MySQL_queries.sql
 
 **Final output:**
 
