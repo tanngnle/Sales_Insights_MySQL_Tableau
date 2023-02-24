@@ -1,7 +1,7 @@
-# Sales_Insights_MySQL_Tableau
+# Sales_Insights_MySQL_Tableau_PowerBI
 Project descriptions: This project demonstrates Atliq Hardware's sales trends in India. The project goal is to explore hidden Sales Insights in the interest of the sales team for the decision-making process, and secondly, to automate these data for more time-efficient data collecting.
 
-Questions I answered to build dashboar
+Questions I answered to build 2 dashboards (1 in Tableau & 1 in Power BI)
 1. Revenue by markets.
 2. Sales quantity by markets.
 3. Revenue break down by years and months.
@@ -20,4 +20,5 @@ Here are my data star schema: <img src= "https://github.com/tanngnle/Sales_Insig
 
 **Final output:**
 
-<img src= "https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Visualisation.png">
+Tableau Dashboard : <img src= "https://github.com/tanngnle/Sales_Insights_with_Tableau_and_MySQL/blob/main/Visualisation.png">
+Power BI Dashboard: <img src= ...>
